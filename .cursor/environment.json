@@ -1,0 +1,4 @@
+{
+  "name": "adatel-cursor-skills",
+  "install": "python3 --version && python3 -m compileall -q tests"
+}
